@@ -1,0 +1,4 @@
+> serve folder-name/
+> serve --help
+ npm install esbuild
+ npm install esbuild
